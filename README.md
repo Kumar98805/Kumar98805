@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-- 🐍 Senior Python engineer with **3+ years** building production-grade backend systems
+- 🐍 Senior Python engineer with **4 years** building production-grade backend systems
 - ☁️ Cloud-native developer — designing and deploying on **AWS · GCP · Azure**
 - 🤖 Bridging the gap between **backend engineering** and **AI/ML model deployment**
 - ⚙️ Obsessed with clean APIs, async performance, and bulletproof microservices
